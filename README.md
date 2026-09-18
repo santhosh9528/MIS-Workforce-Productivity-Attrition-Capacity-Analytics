@@ -108,27 +108,27 @@ The Power BI report contains six interactive pages:
 
 ### Executive Overview
 
-![Executive Overview](Power%20Bi/Dashboards%20screenshot/Executive%20Overview.png)
+![Executive Overview](Power%20BI/Dashboards%20screenshot/Executive%20Overview.png)
 
 ### Productivity Analysis
 
-![Productivity Analysis](Power%20Bi/Dashboards%20screenshot/Productivity%20Analysis.png)
+![Productivity Analysis](Power%20BI/Dashboards%20screenshot/Productivity%20Analysis.png)
 
 ### Attendance & Overtime
 
-![Attendance and Overtime](Power%20Bi/Dashboards%20screenshot/Attendance%20%26%20Overtime.png)
+![Attendance and Overtime](Power%20BI/Dashboards%20screenshot/Attendance%20%26%20Overtime.png)
 
 ### Attrition Analysis
 
-![Attrition Analysis](Power%20Bi/Dashboards%20screenshot/Attrition%20Analysis.png)
+![Attrition Analysis](Power%20BI/Dashboards%20screenshot/Attrition%20Analysis.png)
 
 ### Capacity & Hiring Forecast
 
-![Capacity and Hiring Forecast](Power%20Bi/Dashboards%20screenshot/Capacity%20%26%20Hiring%20Forecast.png)
+![Capacity and Hiring Forecast](Power%20BI/Dashboards%20screenshot/Capacity%20%26%20Hiring%20Forecast.png)
 
 ### Management Exceptions
 
-![Management Exceptions](Power%20Bi/Dashboards%20screenshot/Management%20Exceptions.png)
+![Management Exceptions](Power%20BI/Dashboards%20screenshot/Management%20Exceptions.png)
 
 ## Project Structure
 
