@@ -318,87 +318,95 @@ The Power BI report contains six interactive dashboard pages:
 
 ### Executive Overview
 
-![Executive Overview](./Power%20Bi/Dashboards%20screenshot/Executive%20Overview.png)
+![Executive Overview](./MIS_Workforce_Analytics/Power%20Bi/Dashboards%20screenshot/Executive%20Overview.png)
 
 ### Productivity Analysis
 
-![Productivity Analysis](./Power%20Bi/Dashboards%20screenshot/Productivity%20Analysis.png)
+![Productivity Analysis](./MIS_Workforce_Analytics/Power%20Bi/Dashboards%20screenshot/Productivity%20Analysis.png)
 
 ### Attendance & Overtime
 
-![Attendance and Overtime](./Power%20Bi/Dashboards%20screenshot/Attendance%20%26%20Overtime.png)
+![Attendance and Overtime](./MIS_Workforce_Analytics/Power%20Bi/Dashboards%20screenshot/Attendance%20%26%20Overtime.png)
 
 ### Attrition Analysis
 
-![Attrition Analysis](./Power%20Bi/Dashboards%20screenshot/Attrition%20Analysis.png)
+![Attrition Analysis](./MIS_Workforce_Analytics/Power%20Bi/Dashboards%20screenshot/Attrition%20Analysis.png)
 
 ### Capacity & Hiring Forecast
 
-![Capacity and Hiring Forecast](./Power%20Bi/Dashboards%20screenshot/Capacity%20%26%20Hiring%20Forecast.png)
+![Capacity and Hiring Forecast](./MIS_Workforce_Analytics/Power%20Bi/Dashboards%20screenshot/Capacity%20%26%20Hiring%20Forecast.png)
 
 ### Management Exceptions
 
-![Management Exceptions](./Power%20Bi/Dashboards%20screenshot/Management%20Exceptions.png)
+![Management Exceptions](./MIS_Workforce_Analytics/Power%20Bi/Dashboards%20screenshot/Management%20Exceptions.png)
 
 ## Project Structure
 
 ```text
-MIS_Workforce_Analytics/
+Repository Root/
 │
-├── Dataset/
-│   └── MIS_Workforce_Productivity_Attrition_Capacity_Dataset.xlsx
+├── README.md
 │
-├── Cleaned/
-│   └── MIS_Workforce_Cleaned.xlsx
-│
-├── Analysis/
-│   └── MIS_Workforce_KPI_Calculations.xlsx
-│
-├── Python/
-│   ├── cleaning.py
-│   ├── kpi_calculation.py
-│   ├── productivity_analysis.py
-│   ├── workforce_risk_analysis.py
-│   ├── workforce_forecast.py
-│   └── final_management_report.py
-│
-├── Power Bi/
-│   ├── Dashboards.pbix
-│   └── Dashboards screenshot/
-│       ├── Attendance & Overtime.png
-│       ├── Attrition Analysis.png
-│       ├── Capacity & Hiring Forecast.png
-│       ├── Executive Overview.png
-│       ├── Management Exceptions.png
-│       └── Productivity Analysis.png
-│
-├── Calculation Sheet/
-│   └── executive_kpi_summary.csv
-│
-├── Reconciliation Report/
-│   └── Reconciliation_Report.xlsx
-│
-├── Exception Report/
-│   └── consolidated_exception_report.csv
-│
-├── Executive Summary/
-│   └── executive_summary.txt
-│
-├── Findings & Recommendations/
-│   └── management_recommendations.csv
-│
-├── Workforce Forecast/
-│   └── three_month_workforce_capacity_forecast.csv
-│
-├── output/
-│   └── Generated analysis files
-│
-└── README.md
+└── MIS_Workforce_Analytics/
+    │
+    ├── Analysis/
+    │   └── MIS_Workforce_KPI_Calculations.xlsx
+    │
+    ├── Calculation Sheet/
+    │   └── executive_kpi_summary.csv
+    │
+    ├── Cleaned/
+    │   └── MIS_Workforce_Cleaned.xlsx
+    │
+    ├── Dataset/
+    │   └── MIS_Workforce_Productivity_Attrition_Capacity_Dataset.xlsx
+    │
+    ├── Exception Report/
+    │   └── consolidated_exception_report.csv
+    │
+    ├── Executive Summary/
+    │   └── executive_summary.txt
+    │
+    ├── Findings & Recommendations/
+    │   └── management_recommendations.csv
+    │
+    ├── Power Bi/
+    │   ├── Dashboards.pbix
+    │   └── Dashboards screenshot/
+    │       ├── Attendance & Overtime.png
+    │       ├── Attrition Analysis.png
+    │       ├── Capacity & Hiring Forecast.png
+    │       ├── Executive Overview.png
+    │       ├── Management Exceptions.png
+    │       └── Productivity Analysis.png
+    │
+    ├── Python/
+    │   ├── cleaning.py
+    │   ├── kpi_calculation.py
+    │   ├── productivity_analysis.py
+    │   ├── workforce_risk_analysis.py
+    │   ├── workforce_forecast.py
+    │   └── final_management_report.py
+    │
+    ├── Reconciliation Report/
+    │   └── Reconciliation_Report.xlsx
+    │
+    ├── Workforce Forecast/
+    │   └── three_month_workforce_capacity_forecast.csv
+    │
+    └── output/
+        └── Generated analysis files
 ```
 
 ## Python Workflow
 
-Run the Python scripts from the `Python` folder in the following order:
+Open PowerShell and move to the Python folder:
+
+```powershell
+cd "MIS_Workforce_Analytics\Python"
+```
+
+Run the Python scripts in the following order:
 
 ```powershell
 py cleaning.py
