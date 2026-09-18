@@ -458,7 +458,7 @@ This project enables management to:
 
 **Santhosh Kumar M**  
 Data Analyst Intern  
-Bengaluru, India
+Madurai, Tamilnadu, India
 
 **GitHub Portfolio:** [github.com/santhosh9528](https://github.com/santhosh9528)
 
