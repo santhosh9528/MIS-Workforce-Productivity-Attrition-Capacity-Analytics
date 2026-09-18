@@ -1,0 +1,5 @@
+Location,Employee_Months,Workload_Units,Completed_Units,Productive_Hours,Available_Hours,Average_Quality_Score,Revenue_Contribution,Productivity_Percentage,Capacity_Utilization_Percentage
+Hyderabad,179,18745,16271,25181.5,28640,90.89,755374.2,86.8,87.92
+Pune,141,16489,13951,19619.9,22560,91.63,439056.31,84.61,86.97
+Bengaluru,144,15816,13148,20207.2,23040,91.23,580535.68,83.13,87.7
+Chennai,127,14198,11629,17525.4,20320,91.11,502451.12,81.91,86.25

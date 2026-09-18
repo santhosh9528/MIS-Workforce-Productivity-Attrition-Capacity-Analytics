@@ -1,0 +1,5 @@
+Leave_Type,Leave_Requests,Requested_Leave_Days,Approved_Leave_Days,Rejected_Leave_Days,Approval_Percentage
+Casual Leave,155,155,155,0,100.0
+Earned Leave,23,23,23,0,100.0
+Sick Leave,191,191,191,0,100.0
+Unplanned Absence,84,84,84,0,100.0

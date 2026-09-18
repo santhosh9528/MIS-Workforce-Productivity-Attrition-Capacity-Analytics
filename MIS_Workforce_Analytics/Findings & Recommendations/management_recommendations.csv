@@ -1,0 +1,9 @@
+Priority,Area,Finding,Recommended_Action,Expected_Outcome
+Critical,Operations,"Low productivity, high overtime and high attrition",Conduct immediate workflow root-cause analysis and phased capacity planning,Reduce workload shortfall and operational risk
+Critical,Sales,Productivity declined while attrition reached a high level,"Review targets, employee support, training and retention drivers",Improve output and reduce employee exits
+High,Technology,High capacity utilization with declining productivity,"Review technical workload complexity, process delays and skill gaps",Convert utilized hours into higher completed output
+High,Customer Support,"Highest absenteeism, leave utilization and overtime","Review scheduling, shift coverage, leave patterns and workload allocation",Reduce employee fatigue and attendance risk
+High,New Joiners,New joiner productivity is below experienced employees,"Introduce 30, 60 and 90-day training and productivity monitoring",Reduce new-joiner productivity gap
+High,Overtime,High overtime has no meaningful positive productivity relationship,Approve overtime using workload and productivity exception evidence,Reduce overtime cost and inefficiency
+High,Hiring,Forecast indicates increasing capacity pressure,"Use productivity recovery, workload redistribution and phased hiring",Avoid excessive immediate hiring and manage demand growth
+Medium,Management Monitoring,Productivity declined from January to August,"Track monthly department productivity, capacity, overtime and attrition",Identify risk earlier and support timely corrective action

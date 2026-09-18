@@ -1,0 +1,10 @@
+Dashboard_Page,Recommended_File,Purpose
+Executive Overview,executive_kpi_summary.csv,Overall workforce KPI cards
+Productivity,monthly_productivity_analysis.csv,Monthly productivity trend
+Department Risk,department_workforce_risk_summary.csv,Department workforce risk matrix
+Attendance and Leave,department_attendance_analysis.csv,Absenteeism and attendance analysis
+Overtime,overtime_productivity_analysis.csv,Overtime and productivity relationship
+Attrition,department_attrition_analysis.csv,Department attrition comparison
+Capacity Forecast,three_month_workforce_capacity_forecast.csv,Three-month capacity forecast
+Hiring Requirement,monthly_hiring_requirement.csv,Forecast hiring requirement
+Exceptions,consolidated_exception_report.csv,Management exception report

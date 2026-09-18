@@ -1,0 +1,4 @@
+Experience_Group,Employee_Months,Unique_Employees,Workload_Units,Completed_Units,Productive_Hours,Available_Hours,Average_Quality_Score,Revenue_Contribution,Productivity_Percentage,Capacity_Utilization_Percentage,Revenue_Per_Employee_Month
+0-1 Years,98,17,11054,8288,12407.1,15680,90.5,369064.58,74.98,79.13,3765.97
+1-3 Years,318,41,35745,30571,45122.5,50880,91.44,1149553.87,85.53,88.68,3614.95
+3-5 Years,175,22,18449,16140,25004.4,28000,91.14,758798.86,87.48,89.3,4335.99

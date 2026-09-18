@@ -1,0 +1,9 @@
+Department,Month_Label,Headcount,Workload_Units,Completed_Units,Productive_Hours,Available_Hours,Revenue_Contribution,Productivity_Percentage,Capacity_Utilization_Percentage,Headcount_Change,Productivity_Change_Percentage_Points,Department_Risk_Flag
+Sales,2026-05,14,656,516,1859.0,2240,115186.22,78.66,82.99,1.0,-5.99,Headcount Increasing - Productivity Declining
+Operations,2026-03,15,2017,1623,2016.2,2400,29425.41,80.47,84.01,2.0,-5.44,Headcount Increasing - Productivity Declining
+Technology,2026-04,10,830,673,1426.3,1600,65538.62,81.08,89.14,1.0,-5.28,Headcount Increasing - Productivity Declining
+Technology,2026-08,11,1119,758,1628.6,1760,73577.58,67.74,92.53,1.0,-5.03,Headcount Increasing - Productivity Declining
+Sales,2026-03,13,580,512,1843.8,2080,115184.28,88.28,88.64,1.0,-3.88,Headcount Increasing - Productivity Declining
+Sales,2026-06,15,723,549,1937.6,2400,122823.88,75.93,80.73,1.0,-2.73,Headcount Increasing - Productivity Declining
+Operations,2026-04,16,2155,1700,2128.3,2560,30991.08,78.89,83.14,1.0,-1.58,Headcount Increasing - Productivity Declining
+Operations,2026-07,16,2425,1632,2027.7,2560,29488.32,67.3,79.21,1.0,-1.2,Headcount Increasing - Productivity Declining

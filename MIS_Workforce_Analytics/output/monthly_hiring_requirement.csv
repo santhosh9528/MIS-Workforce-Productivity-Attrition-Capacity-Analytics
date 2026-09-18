@@ -1,0 +1,4 @@
+Forecast_Month,Current_Headcount,Required_Headcount,Recommended_Hires,Excess_Headcount,Forecast_Workload_Units,Expected_Completed_Units,Workload_Shortfall_Units,Forecast_Revenue_Contribution,Overall_Forecast_Productivity_Percentage
+2026-09,72,115,43,0,9405.18,6422.11,2983.06,300337.09,68.28
+2026-10,72,123,51,0,9682.77,6256.64,3426.12,303817.1,64.62
+2026-11,72,135,63,0,9960.36,6091.2,3869.19,307297.08,61.15

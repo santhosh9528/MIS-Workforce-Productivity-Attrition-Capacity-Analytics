@@ -1,0 +1,9 @@
+Department,Workload_Units,Completed_Units,Productive_Hours,Available_Hours,Revenue_Contribution,Productivity_Percentage,Capacity_Utilization_Percentage,Absenteeism_Percentage,Hour_Based_Absenteeism_Percentage,OT_Hours_Per_Employee,Attrition_Percentage,Risk_Score,Workforce_Risk_Level,Risk_Reasons
+Operations,16608,12511,15574.9,19040,227869.08,75.33,81.8,3.03,5.54,57.05,14.81,5,Critical Risk,"Low Productivity, High Overtime, High Attrition"
+Sales,4908,3974,14125.1,16960,888660.08,80.97,83.28,4.58,6.99,28.53,25.0,4,High Risk,"Low Productivity, High Attrition"
+Technology,6774,5376,11508.0,12480,516870.88,79.36,92.21,2.62,4.95,53.14,0.0,2,Medium Risk,Low Productivity
+Customer Support,21913,19517,18805.6,21120,235427.05,89.07,89.04,6.74,9.06,70.49,6.25,2,Medium Risk,"High Absenteeism, High Overtime"
+Marketing,1861,1668,3052.4,3360,93078.75,89.63,90.85,2.71,5.21,25.0,40.0,2,Medium Risk,High Attrition
+Quality,7088,6430,9195.1,10080,155249.99,90.72,91.22,3.33,5.74,39.7,13.33,2,Medium Risk,High Attrition
+HR,3873,3502,7059.4,7680,98515.63,90.42,91.92,1.54,3.95,15.65,0.0,0,Low Risk,No Major Risk
+Finance,2223,2021,3213.5,3840,61745.85,90.91,83.68,2.76,5.19,20.18,0.0,0,Low Risk,No Major Risk

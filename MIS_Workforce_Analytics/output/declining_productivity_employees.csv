@@ -1,0 +1,22 @@
+Employee_ID,Department,Team,Manager,Starting_Productivity,Latest_Productivity,Total_Change_Percentage_Points,Risk_Level
+E0075,Sales,SAL-A,Sales Manager 3,91.3,70.59,-20.71,High Productivity Risk
+E0073,Customer Support,SUP-C,Customer Manager 1,101.9,81.29,-20.61,High Productivity Risk
+E0017,Customer Support,SUP-C,Customer Manager 1,95.51,76.44,-19.07,High Productivity Risk
+E0034,Customer Support,SUP-A,Customer Manager 1,98.7,79.66,-19.04,High Productivity Risk
+E0009,Technology,TEC-B,Technology Manager 2,87.21,68.81,-18.4,High Productivity Risk
+E0079,Technology,TEC-A,Technology Manager 1,80.0,61.68,-18.32,High Productivity Risk
+E0029,HR,HR-B,HR Manager 1,92.94,75.0,-17.94,High Productivity Risk
+E0054,Quality,QUA-B,Quality Manager 3,98.25,80.95,-17.3,High Productivity Risk
+E0055,Sales,SAL-A,Sales Manager 3,84.44,67.35,-17.09,High Productivity Risk
+E0078,Technology,TEC-B,Technology Manager 3,84.09,67.29,-16.8,High Productivity Risk
+E0049,Sales,SAL-A,Sales Manager 1,82.0,67.92,-14.08,High Productivity Risk
+E0004,Technology,TEC-B,Technology Manager 2,84.71,70.97,-13.74,High Productivity Risk
+E0045,Sales,SAL-A,Sales Manager 1,78.72,67.27,-11.45,High Productivity Risk
+E0067,Operations,OPS-A,Operations Manager 1,72.55,62.2,-10.35,High Productivity Risk
+E0031,Sales,SAL-C,Sales Manager 3,86.67,76.6,-10.07,High Productivity Risk
+E0058,Operations,OPS-B,Operations Manager 2,72.92,62.89,-10.03,High Productivity Risk
+E0080,Operations,OPS-B,Operations Manager 1,70.8,62.25,-8.55,High Productivity Risk
+E0072,Operations,OPS-B,Operations Manager 2,68.24,60.67,-7.57,High Productivity Risk
+E0007,Finance,FIN-B,Finance Manager 3,89.36,82.35,-7.01,High Productivity Risk
+E0028,Operations,OPS-A,Operations Manager 3,74.51,68.94,-5.57,High Productivity Risk
+E0027,Operations,OPS-B,Operations Manager 2,64.71,59.87,-4.84,High Productivity Risk

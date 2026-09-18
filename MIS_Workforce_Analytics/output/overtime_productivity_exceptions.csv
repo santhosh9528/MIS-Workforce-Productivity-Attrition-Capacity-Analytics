@@ -1,0 +1,89 @@
+Employee_ID,Month_Label,Department,Team,Workload_Units,Completed_Units,Productive_Hours,Available_Hours,Productivity_Percentage,Capacity_Utilization_Percentage,Month,OT_Hours,OT_Productivity_Status
+E0026,2026-07,Customer Support,SUP-C,188,138,142.0,160,73.4,88.75,2026-07,20.04,High OT - Low Productivity - Inefficiency Risk
+E0062,2026-07,Customer Support,SUP-A,185,143,133.0,160,77.3,83.12,2026-07,20.02,High OT - Low Productivity - Inefficiency Risk
+E0033,2026-06,Operations,OPS-A,152,113,136.5,160,74.34,85.31,2026-06,19.11,High OT - Low Productivity - Inefficiency Risk
+E0033,2026-07,Operations,OPS-A,146,110,138.4,160,75.34,86.5,2026-07,18.13,High OT - Low Productivity - Inefficiency Risk
+E0013,2026-07,Customer Support,SUP-C,161,140,129.6,160,86.96,81.0,2026-07,17.95,High OT - Low Productivity - Inefficiency Risk
+E0024,2026-08,Operations,OPS-C,155,111,133.3,160,71.61,83.31,2026-08,17.8,High OT - Low Productivity - Inefficiency Risk
+E0028,2026-05,Operations,OPS-A,143,105,133.6,160,73.43,83.5,2026-05,17.35,High OT - Low Productivity - Inefficiency Risk
+E0013,2026-06,Customer Support,SUP-C,182,139,126.3,160,76.37,78.94,2026-06,17.27,High OT - Low Productivity - Inefficiency Risk
+E0028,2026-07,Operations,OPS-A,143,99,116.6,160,69.23,72.88,2026-07,16.73,High OT - Low Productivity - Inefficiency Risk
+E0062,2026-08,Customer Support,SUP-A,173,152,150.0,160,87.86,93.75,2026-08,16.66,High OT - Low Productivity - Inefficiency Risk
+E0065,2026-07,Operations,OPS-B,160,114,148.8,160,71.25,93.0,2026-07,16.33,High OT - Low Productivity - Inefficiency Risk
+E0034,2026-08,Customer Support,SUP-A,177,141,129.9,160,79.66,81.19,2026-08,16.01,High OT - Low Productivity - Inefficiency Risk
+E0067,2026-06,Operations,OPS-A,153,111,139.9,160,72.55,87.44,2026-06,15.75,High OT - Low Productivity - Inefficiency Risk
+E0036,2026-07,Technology,TEC-A,91,79,158.8,160,86.81,99.25,2026-07,15.7,High OT - Low Productivity - Inefficiency Risk
+E0058,2026-06,Operations,OPS-B,144,105,139.2,160,72.92,87.0,2026-06,15.63,High OT - Low Productivity - Inefficiency Risk
+E0039,2026-07,Customer Support,SUP-B,171,140,126.9,160,81.87,79.31,2026-07,15.42,High OT - Low Productivity - Inefficiency Risk
+E0057,2026-07,Customer Support,SUP-A,186,139,142.7,160,74.73,89.19,2026-07,15.33,High OT - Low Productivity - Inefficiency Risk
+E0078,2026-06,Technology,TEC-B,88,74,157.1,160,84.09,98.19,2026-06,15.32,High OT - Low Productivity - Inefficiency Risk
+E0017,2026-04,Customer Support,SUP-C,178,149,138.1,160,83.71,86.31,2026-04,15.3,High OT - Low Productivity - Inefficiency Risk
+E0078,2026-08,Technology,TEC-B,107,72,148.5,160,67.29,92.81,2026-08,15.13,High OT - Low Productivity - Inefficiency Risk
+E0079,2026-07,Technology,TEC-A,89,66,139.7,160,74.16,87.31,2026-07,14.96,High OT - Low Productivity - Inefficiency Risk
+E0072,2026-06,Operations,OPS-B,148,101,125.4,160,68.24,78.38,2026-06,14.86,High OT - Low Productivity - Inefficiency Risk
+E0016,2026-08,Operations,OPS-A,142,107,126.0,160,75.35,78.75,2026-08,14.77,High OT - Low Productivity - Inefficiency Risk
+E0015,2026-07,Technology,TEC-B,104,66,135.1,160,63.46,84.44,2026-07,14.64,High OT - Low Productivity - Inefficiency Risk
+E0004,2026-02,Technology,TEC-B,80,64,144.2,160,80.0,90.12,2026-02,14.59,High OT - Low Productivity - Inefficiency Risk
+E0004,2026-07,Technology,TEC-B,101,76,162.2,160,75.25,101.38,2026-07,14.58,High OT - Low Productivity - Inefficiency Risk
+E0022,2026-08,Operations,OPS-B,152,108,127.7,160,71.05,79.81,2026-08,14.52,High OT - Low Productivity - Inefficiency Risk
+E0027,2026-07,Operations,OPS-B,161,101,122.7,160,62.73,76.69,2026-07,13.92,High OT - Low Productivity - Inefficiency Risk
+E0065,2026-04,Operations,OPS-B,139,105,124.6,160,75.54,77.88,2026-04,13.87,High OT - Low Productivity - Inefficiency Risk
+E0032,2026-06,Operations,OPS-B,150,96,122.9,160,64.0,76.81,2026-06,13.84,High OT - Low Productivity - Inefficiency Risk
+E0024,2026-07,Operations,OPS-C,158,109,136.3,160,68.99,85.19,2026-07,13.71,High OT - Low Productivity - Inefficiency Risk
+E0063,2026-06,Operations,OPS-C,153,98,120.4,160,64.05,75.25,2026-06,13.69,High OT - Low Productivity - Inefficiency Risk
+E0041,2026-03,Operations,OPS-A,133,88,114.2,160,66.17,71.38,2026-03,13.58,High OT - Low Productivity - Inefficiency Risk
+E0028,2026-06,Operations,OPS-A,153,114,137.8,160,74.51,86.12,2026-06,13.22,High OT - Low Productivity - Inefficiency Risk
+E0015,2026-08,Technology,TEC-B,92,67,144.8,160,72.83,90.5,2026-08,13.01,High OT - Low Productivity - Inefficiency Risk
+E0010,2026-07,Operations,OPS-B,159,82,97.3,160,51.57,60.81,2026-07,12.89,High OT - Low Productivity - Inefficiency Risk
+E0041,2026-04,Operations,OPS-A,135,89,109.1,160,65.93,68.19,2026-04,12.41,High OT - Low Productivity - Inefficiency Risk
+E0022,2026-07,Operations,OPS-B,145,99,127.8,160,68.28,79.88,2026-07,12.37,High OT - Low Productivity - Inefficiency Risk
+E0079,2026-08,Technology,TEC-A,107,66,136.2,160,61.68,85.12,2026-08,12.33,High OT - Low Productivity - Inefficiency Risk
+E0058,2026-08,Operations,OPS-B,159,100,129.9,160,62.89,81.19,2026-08,12.26,High OT - Low Productivity - Inefficiency Risk
+E0042,2026-08,Operations,OPS-C,143,107,128.8,160,74.83,80.5,2026-08,11.77,High OT - Low Productivity - Inefficiency Risk
+E0041,2026-08,Operations,OPS-A,143,100,127.1,160,69.93,79.44,2026-08,11.74,High OT - Low Productivity - Inefficiency Risk
+E0076,2026-08,Sales,SAL-B,48,34,124.3,160,70.83,77.69,2026-08,11.67,High OT - Low Productivity - Inefficiency Risk
+E0065,2026-08,Operations,OPS-B,163,107,126.4,160,65.64,79.0,2026-08,11.66,High OT - Low Productivity - Inefficiency Risk
+E0067,2026-03,Operations,OPS-A,144,111,131.8,160,77.08,82.38,2026-03,11.5,High OT - Low Productivity - Inefficiency Risk
+E0064,2026-07,Technology,TEC-B,96,66,144.6,160,68.75,90.38,2026-07,11.46,High OT - Low Productivity - Inefficiency Risk
+E0055,2026-08,Sales,SAL-A,49,33,114.7,160,67.35,71.69,2026-08,11.45,High OT - Low Productivity - Inefficiency Risk
+E0016,2026-06,Operations,OPS-A,150,90,113.2,160,60.0,70.75,2026-06,11.32,High OT - Low Productivity - Inefficiency Risk
+E0014,2026-07,Quality,QUA-A,126,108,148.8,160,85.71,93.0,2026-07,11.27,High OT - Low Productivity - Inefficiency Risk
+E0053,2026-05,Technology,TEC-B,87,50,101.5,160,57.47,63.44,2026-05,11.21,High OT - Low Productivity - Inefficiency Risk
+E0028,2026-04,Operations,OPS-A,137,116,150.7,160,84.67,94.19,2026-04,11.16,High OT - Low Productivity - Inefficiency Risk
+E0024,2026-06,Operations,OPS-C,149,97,122.6,160,65.1,76.62,2026-06,11.1,High OT - Low Productivity - Inefficiency Risk
+E0017,2026-08,Customer Support,SUP-C,191,146,141.3,160,76.44,88.31,2026-08,11.06,High OT - Low Productivity - Inefficiency Risk
+E0042,2026-05,Operations,OPS-C,141,113,134.3,160,80.14,83.94,2026-05,11.01,High OT - Low Productivity - Inefficiency Risk
+E0002,2026-08,Customer Support,SUP-B,188,140,138.9,160,74.47,86.81,2026-08,11.0,High OT - Low Productivity - Inefficiency Risk
+E0041,2026-06,Operations,OPS-A,147,88,110.5,160,59.86,69.06,2026-06,10.98,High OT - Low Productivity - Inefficiency Risk
+E0001,2026-02,Customer Support,SUP-B,174,131,122.8,160,75.29,76.75,2026-02,10.93,High OT - Low Productivity - Inefficiency Risk
+E0016,2026-07,Operations,OPS-A,154,98,121.6,160,63.64,76.0,2026-07,10.92,High OT - Low Productivity - Inefficiency Risk
+E0027,2026-05,Operations,OPS-B,152,102,133.0,160,67.11,83.12,2026-05,10.69,High OT - Low Productivity - Inefficiency Risk
+E0012,2026-08,Marketing,MKT-A,97,77,134.5,160,79.38,84.06,2026-08,10.6,High OT - Low Productivity - Inefficiency Risk
+E0063,2026-08,Operations,OPS-C,160,102,131.2,160,63.75,82.0,2026-08,10.4,High OT - Low Productivity - Inefficiency Risk
+E0056,2026-06,Sales,SAL-C,49,38,140.1,160,77.55,87.56,2026-06,10.38,High OT - Low Productivity - Inefficiency Risk
+E0002,2026-07,Customer Support,SUP-B,184,130,128.4,160,70.65,80.25,2026-07,10.38,High OT - Low Productivity - Inefficiency Risk
+E0009,2026-08,Technology,TEC-B,109,75,165.9,160,68.81,103.69,2026-08,10.32,High OT - Low Productivity - Inefficiency Risk
+E0073,2026-08,Customer Support,SUP-C,171,139,140.7,160,81.29,87.94,2026-08,10.3,High OT - Low Productivity - Inefficiency Risk
+E0059,2026-04,Technology,TEC-B,77,67,134.4,160,87.01,84.0,2026-04,10.29,High OT - Low Productivity - Inefficiency Risk
+E0053,2026-08,Technology,TEC-B,102,66,143.9,160,64.71,89.94,2026-08,10.27,High OT - Low Productivity - Inefficiency Risk
+E0078,2026-04,Technology,TEC-B,77,67,137.6,160,87.01,86.0,2026-04,10.24,High OT - Low Productivity - Inefficiency Risk
+E0067,2026-08,Operations,OPS-A,164,102,135.6,160,62.2,84.75,2026-08,10.22,High OT - Low Productivity - Inefficiency Risk
+E0020,2026-03,Customer Support,SUP-A,174,140,134.9,160,80.46,84.31,2026-03,10.2,High OT - Low Productivity - Inefficiency Risk
+E0009,2026-06,Technology,TEC-B,86,75,157.1,160,87.21,98.19,2026-06,10.09,High OT - Low Productivity - Inefficiency Risk
+E0080,2026-07,Operations,OPS-B,159,103,125.0,160,64.78,78.12,2026-07,10.08,High OT - Low Productivity - Inefficiency Risk
+E0032,2026-03,Operations,OPS-B,127,107,141.3,160,84.25,88.31,2026-03,10.06,High OT - Low Productivity - Inefficiency Risk
+E0033,2026-04,Operations,OPS-A,137,112,139.9,160,81.75,87.44,2026-04,10.0,High OT - Low Productivity - Inefficiency Risk
+E0008,2026-03,Operations,OPS-B,127,104,137.3,160,81.89,85.81,2026-03,9.97,High OT - Low Productivity - Inefficiency Risk
+E0002,2026-06,Customer Support,SUP-B,182,121,123.2,160,66.48,77.0,2026-06,9.96,High OT - Low Productivity - Inefficiency Risk
+E0059,2026-08,Technology,TEC-B,107,77,167.4,160,71.96,104.63,2026-08,9.93,High OT - Low Productivity - Inefficiency Risk
+E0072,2026-07,Operations,OPS-B,161,108,138.1,160,67.08,86.31,2026-07,9.71,High OT - Low Productivity - Inefficiency Risk
+E0065,2026-02,Operations,OPS-B,126,110,139.9,160,87.3,87.44,2026-02,9.65,High OT - Low Productivity - Inefficiency Risk
+E0036,2026-06,Technology,TEC-A,98,79,173.8,160,80.61,108.63,2026-06,9.49,High OT - Low Productivity - Inefficiency Risk
+E0067,2026-07,Operations,OPS-A,155,97,116.1,160,62.58,72.56,2026-07,9.49,High OT - Low Productivity - Inefficiency Risk
+E0064,2026-03,Technology,TEC-B,81,63,137.6,160,77.78,86.0,2026-03,9.48,High OT - Low Productivity - Inefficiency Risk
+E0022,2026-02,Operations,OPS-B,125,86,103.7,160,68.8,64.81,2026-02,9.47,High OT - Low Productivity - Inefficiency Risk
+E0052,2026-02,Customer Support,SUP-B,168,141,130.9,160,83.93,81.81,2026-02,9.34,High OT - Low Productivity - Inefficiency Risk
+E0035,2026-06,Sales,SAL-B,46,26,89.4,160,56.52,55.88,2026-06,9.31,High OT - Low Productivity - Inefficiency Risk
+E0024,2026-03,Operations,OPS-C,127,106,136.2,160,83.46,85.12,2026-03,9.17,High OT - Low Productivity - Inefficiency Risk
+E0022,2026-04,Operations,OPS-B,134,93,109.4,160,69.4,68.38,2026-04,9.11,High OT - Low Productivity - Inefficiency Risk
+E0028,2026-03,Operations,OPS-A,134,117,144.2,160,87.31,90.12,2026-03,9.06,High OT - Low Productivity - Inefficiency Risk

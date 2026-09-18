@@ -1,0 +1,19 @@
+Team,Employee_Months,Unique_Employees,Workload_Units,Completed_Units,Productive_Hours,Available_Hours,Average_Quality_Score,Revenue_Contribution,Productivity_Percentage,Capacity_Utilization_Percentage,Revenue_Per_Employee_Month,Productivity_Risk,Capacity_Status
+FIN-B,8,1,775,714,1133.2,1280,90.04,21567.77,92.13,88.53,2695.97,Low Risk,Normal Capacity
+HR-A,24,3,1920,1763,3562.9,3840,92.18,49298.37,91.82,92.78,2054.1,Low Risk,Normal Capacity
+QUA-B,47,6,5283,4797,6879.2,7520,91.68,115980.14,90.8,91.48,2467.66,Low Risk,Normal Capacity
+QUA-A,16,2,1805,1633,2315.9,2560,91.19,39269.85,90.47,90.46,2454.37,Low Risk,Normal Capacity
+SUP-A,32,4,5278,4770,4588.8,5120,93.16,57695.0,90.38,89.62,1802.97,Low Risk,Normal Capacity
+FIN-A,16,2,1448,1307,2080.3,2560,91.05,40178.08,90.26,81.26,2511.13,Low Risk,Normal Capacity
+MKT-A,21,3,1861,1668,3052.4,3360,92.78,93078.75,89.63,90.85,4432.32,Low Risk,Normal Capacity
+SUP-C,56,7,9313,8324,8024.2,8960,91.08,100101.9,89.38,89.56,1787.53,Low Risk,Normal Capacity
+HR-B,24,3,1953,1739,3496.5,3840,91.89,49217.26,89.04,91.05,2050.72,Low Risk,Normal Capacity
+SUP-B,44,6,7322,6423,6192.6,7040,90.87,77630.15,87.72,87.96,1764.32,Low Risk,Normal Capacity
+TEC-A,16,2,1369,1132,2384.0,2560,90.38,109107.02,82.69,93.12,6819.19,Medium Risk,Normal Capacity
+SAL-A,57,8,2635,2174,7724.3,9120,89.66,485284.23,82.5,84.7,8513.76,Medium Risk,Normal Capacity
+SAL-C,29,4,1339,1082,3836.3,4640,88.76,242514.8,80.81,82.68,8362.58,Medium Risk,Normal Capacity
+OPS-C,24,3,3334,2630,3293.8,3840,92.4,47592.01,78.88,85.78,1983.0,Medium Risk,Normal Capacity
+TEC-B,62,9,5405,4244,9124.0,9920,92.01,407763.86,78.52,91.98,6576.84,Medium Risk,Normal Capacity
+SAL-B,20,3,934,718,2564.5,3200,89.79,160861.05,76.87,80.14,8043.05,Medium Risk,Normal Capacity
+OPS-B,60,9,8284,6223,7709.3,9600,91.07,113994.09,75.12,80.31,1899.9,Medium Risk,Normal Capacity
+OPS-A,35,5,4990,3658,4571.8,5600,91.25,66282.98,73.31,81.64,1893.8,High Risk,Normal Capacity

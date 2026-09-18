@@ -1,0 +1,9 @@
+Department,Attendance_Records,Unique_Employees,Present_Days,Absent_Days,Scheduled_Hours,Actual_Hours,Lost_Hours,Absenteeism_Percentage,Hour_Based_Absenteeism_Percentage,Attendance_Percentage,Hour_Based_Attendance_Percentage
+Customer Support,2834,17,2643,191,22672,20746.61,2054.31,6.74,9.06,93.26,91.51
+Sales,2226,15,2124,102,17808,16667.25,1245.25,4.58,6.99,95.42,93.59
+Quality,1353,8,1308,45,10824,10267.15,621.76,3.33,5.74,96.67,94.86
+Operations,2541,17,2464,77,20328,19315.08,1125.93,3.03,5.54,96.97,95.02
+Finance,508,3,494,14,4064,3876.19,210.77,2.76,5.19,97.24,95.38
+Marketing,442,3,430,12,3536,3371.08,184.29,2.71,5.21,97.29,95.34
+Technology,1678,11,1634,44,13424,12845.88,664.4,2.62,4.95,97.38,95.69
+HR,1038,6,1022,16,8304,8028.75,328.28,1.54,3.95,98.46,96.69

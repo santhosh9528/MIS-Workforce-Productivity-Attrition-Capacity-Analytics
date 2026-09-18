@@ -1,0 +1,19 @@
+Department,Team,Unique_Employees,Total_OT_Hours,Average_OT_Hours,OT_Hours_Per_Employee
+Customer Support,SUP-A,4,312.07,1.85,78.02
+Customer Support,SUP-C,7,492.17,1.8,70.31
+Technology,TEC-A,2,138.61,1.65,69.31
+Operations,OPS-A,5,337.13,1.82,67.43
+Customer Support,SUP-B,6,394.13,1.78,65.69
+Operations,OPS-C,3,185.43,1.78,61.81
+Operations,OPS-B,9,447.22,1.82,49.69
+Technology,TEC-B,9,445.92,1.67,49.55
+Quality,QUA-A,2,97.3,1.8,48.65
+Quality,QUA-B,6,220.27,1.67,36.71
+Sales,SAL-B,3,92.51,1.78,30.84
+Sales,SAL-C,4,113.26,1.69,28.32
+Sales,SAL-A,8,222.19,1.6,27.77
+Finance,FIN-B,1,26.27,1.75,26.27
+Marketing,MKT-A,3,75.0,1.74,25.0
+Finance,FIN-A,2,34.27,1.63,17.14
+HR,HR-A,3,48.97,1.63,16.32
+HR,HR-B,3,44.92,1.6,14.97

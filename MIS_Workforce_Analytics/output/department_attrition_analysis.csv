@@ -1,0 +1,9 @@
+Department,Exits,Voluntary_Exits,Average_Tenure_Years,Opening_Headcount,Closing_Headcount,Average_Headcount,Attrition_Percentage,Voluntary_Attrition_Percentage
+Marketing,1.0,1.0,2.0,3,2,2.5,40.0,40.0
+Sales,3.0,2.0,2.27,12,12,12.0,25.0,16.67
+Operations,2.0,2.0,2.45,12,15,13.5,14.81,14.81
+Quality,1.0,1.0,1.6,8,7,7.5,13.33,13.33
+Customer Support,1.0,1.0,1.0,16,16,16.0,6.25,6.25
+Finance,0.0,0.0,0.0,2,3,2.5,0.0,0.0
+HR,0.0,0.0,0.0,6,6,6.0,0.0,0.0
+Technology,0.0,0.0,0.0,9,11,10.0,0.0,0.0

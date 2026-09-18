@@ -1,0 +1,9 @@
+Department,Current_Headcount,Maximum_Required_Headcount,Maximum_Recommended_Hires,Maximum_Excess_Headcount,Average_Forecast_Productivity,Average_Forecast_Capacity_Utilization,Total_Forecast_Workload,Total_Workload_Shortfall,Department_Capacity_Status
+Operations,15,37,22,0,56.15,216.69,8213.5,4404.67,Under-Capacity
+Sales,12,28,16,0,62.94,206.55,2291.89,1178.64,Under-Capacity
+Technology,11,23,12,0,61.91,182.44,3615.11,1625.55,Under-Capacity
+Customer Support,16,22,6,0,85.77,129.83,9253.14,2125.11,Under-Capacity
+Quality,7,10,3,0,87.41,128.05,2749.92,602.28,Under-Capacity
+HR,6,8,2,0,87.05,118.46,1559.03,242.8,Under-Capacity
+Marketing,2,3,1,0,85.62,107.69,524.82,37.62,Under-Capacity
+Finance,3,4,1,0,93.99,107.92,840.9,61.7,Under-Capacity

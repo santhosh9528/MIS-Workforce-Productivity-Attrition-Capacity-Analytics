@@ -1,0 +1,9 @@
+Department,OT_Records,Unique_Employees,Total_OT_Hours,Average_OT_Hours,Maximum_OT_Hours,OT_Hours_Per_Employee
+Customer Support,663,17,1198.37,1.81,3.35,70.49
+Operations,535,17,969.78,1.81,3.34,57.05
+Technology,351,11,584.53,1.67,2.8,53.14
+Sales,258,15,427.96,1.66,2.79,28.53
+Quality,186,8,317.57,1.71,2.8,39.7
+HR,58,6,93.89,1.62,2.78,15.65
+Marketing,43,3,75.0,1.74,2.8,25.0
+Finance,36,3,60.54,1.68,2.69,20.18

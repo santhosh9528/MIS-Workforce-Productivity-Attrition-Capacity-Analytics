@@ -1,0 +1,90 @@
+WORKFORCE PRODUCTIVITY, ATTRITION AND CAPACITY PLANNING
+EXECUTIVE SUMMARY
+
+Analysis Period:
+January 2026 to August 2026
+
+1. WORKFORCE OVERVIEW
+
+Employee Headcount: 80
+Active Employees: 72
+New Joiners: 12
+Employee Exits: 8
+Attrition Rate: 11.43%
+
+2. ATTENDANCE AND LEAVE
+
+Absenteeism Rate: 3.97%
+Hour-Based Absenteeism Rate: 6.37%
+Approved Leave Days: 453
+Leave Utilization Rate: 47.19%
+
+Leave utilization assumes an annual entitlement of
+12 days per employee.
+
+3. PRODUCTIVITY AND CAPACITY
+
+Total Workload Units: 65,248
+Completed Units: 54,999
+Overall Productivity: 84.29%
+Overall Capacity Utilization: 87.28%
+
+Monthly productivity changed from
+91.20% to 78.10%,
+a change of -13.10 percentage points.
+
+4. OVERTIME
+
+Total Overtime Hours: 3,727.64
+Average Overtime per Active Employee:
+51.77 hours
+
+The analysis identified high-overtime records where
+productivity remained below the median. Overtime did
+not show a meaningful positive relationship with productivity.
+
+5. WORKFORCE RISK
+
+Operations was classified as Critical Risk due to
+low productivity, high overtime and high attrition.
+
+Sales was classified as High Risk due to declining
+productivity and high attrition.
+
+Customer Support recorded the highest absenteeism
+and overtime exposure.
+
+New joiners recorded lower productivity than
+experienced employees, indicating a training and
+onboarding improvement opportunity.
+
+6. FORECAST
+
+Maximum Monthly Hiring Requirement:
+62
+
+Total Forecast Workload Shortfall:
+10,024.45 units
+
+The hiring forecast represents additional FTE-equivalent
+capacity required if historical workload and productivity
+trends continue. Management should first improve productivity,
+redistribute workload and then use phased hiring.
+
+7. MANAGEMENT EXCEPTIONS
+
+Critical Exceptions: 17
+High Exceptions: 45
+Medium Exceptions: 92
+Total Exceptions: 154
+
+8. MANAGEMENT RECOMMENDATIONS
+
+- Perform immediate root-cause analysis for Operations.
+- Review Sales productivity, targets and retention drivers.
+- Reduce overtime that does not improve completed output.
+- Improve Customer Support scheduling and leave coverage.
+- Introduce 30, 60 and 90-day new-joiner monitoring.
+- Use phased hiring instead of immediate full hiring.
+- Review productivity, capacity, absenteeism, overtime
+  and attrition every month.
