@@ -61,10 +61,10 @@ onboarding improvement opportunity.
 6. FORECAST
 
 Maximum Monthly Hiring Requirement:
-62
+63
 
 Total Forecast Workload Shortfall:
-10,024.45 units
+10,278.37 units
 
 The hiring forecast represents additional FTE-equivalent
 capacity required if historical workload and productivity

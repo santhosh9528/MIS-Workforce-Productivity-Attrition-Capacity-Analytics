@@ -1,5 +1,5 @@
 Forecast_Month,Department,Current_Headcount,Forecast_Workload_Units,Forecast_Productivity_Percentage,Average_Workload_Per_Employee,Productive_Capacity_Per_Employee,Exact_Required_Headcount,Required_Headcount,Headcount_Gap,Recommended_Hires,Excess_Headcount,Forecast_Capacity_Utilization_Percentage,Expected_Completed_Units,Workload_Shortfall_Units,Forecast_Revenue_Contribution,Recent_Average_Capacity_Utilization,Capacity_Status
-2026-09,Operations,16,2617.5,59.84,150.75,90.21,29.02,30,14,14,0,181.35,1443.37,1174.13,30000.69,78.38,Under-Capacity
+2026-09,Operations,15,2617.5,59.84,150.75,90.21,29.02,30,15,15,0,193.44,1353.16,1264.34,30000.69,78.38,Under-Capacity
 2026-09,Sales,12,736.61,66.37,49.13,32.61,22.59,23,11,11,0,188.23,391.33,345.28,114307.44,79.46,Under-Capacity
 2026-09,Technology,11,1139.89,65.34,97.38,63.63,17.92,18,7,7,0,162.86,699.9,439.99,75133.89,94.38,Under-Capacity
 2026-09,Customer Support,16,3021.61,86.38,173.15,149.57,20.2,21,5,5,0,126.26,2393.09,628.51,31799.22,91.46,Under-Capacity
@@ -7,7 +7,7 @@ Forecast_Month,Department,Current_Headcount,Forecast_Workload_Units,Forecast_Pro
 2026-09,Finance,3,279.86,93.44,92.11,86.07,3.25,4,1,1,0,108.38,258.21,21.64,8030.91,85.9,Under-Capacity
 2026-09,HR,6,513.21,87.68,84.0,73.65,6.97,7,1,1,0,116.14,441.89,71.33,12660.1,93.9,Under-Capacity
 2026-09,Marketing,2,185.43,86.29,94.83,81.84,2.27,3,1,1,0,113.29,163.67,21.76,8952.71,94.93,Under-Capacity
-2026-10,Operations,16,2737.83,56.15,150.75,84.64,32.35,33,17,17,0,202.17,1354.25,1383.58,30337.81,78.38,Under-Capacity
+2026-10,Operations,15,2737.83,56.15,150.75,84.64,32.35,33,18,18,0,215.64,1269.61,1468.22,30337.81,78.38,Under-Capacity
 2026-10,Sales,12,763.96,62.94,49.13,30.92,24.7,25,13,13,0,205.87,371.09,392.88,115024.1,79.46,Under-Capacity
 2026-10,Technology,11,1205.04,61.91,97.38,60.29,19.99,20,9,9,0,181.7,663.18,541.85,77472.79,94.38,Under-Capacity
 2026-10,Customer Support,16,3084.38,85.77,173.15,148.5,20.77,21,5,5,0,129.81,2376.01,708.37,32326.07,91.46,Under-Capacity
@@ -15,7 +15,7 @@ Forecast_Month,Department,Current_Headcount,Forecast_Workload_Units,Forecast_Pro
 2026-10,Quality,7,916.64,87.41,117.0,102.27,8.96,9,2,2,0,128.04,715.88,200.76,19462.33,92.69,Under-Capacity
 2026-10,Finance,3,280.3,93.99,92.11,86.58,3.24,4,1,1,0,107.92,259.73,20.57,8100.4,85.9,Under-Capacity
 2026-10,Marketing,2,174.94,85.62,94.83,81.2,2.15,3,1,1,0,107.72,162.4,12.54,8356.69,94.93,Under-Capacity
-2026-11,Operations,16,2858.17,52.45,150.75,79.07,36.15,37,21,21,0,225.92,1265.13,1593.04,30674.93,78.38,Under-Capacity
+2026-11,Operations,15,2858.17,52.45,150.75,79.07,36.15,37,22,22,0,240.98,1186.06,1672.11,30674.93,78.38,Under-Capacity
 2026-11,Sales,12,791.32,59.51,49.13,29.24,27.07,28,16,16,0,225.55,350.85,440.48,115740.75,79.46,Under-Capacity
 2026-11,Technology,11,1270.18,58.49,97.38,56.95,22.3,23,12,12,0,202.75,626.47,643.71,79811.69,94.38,Under-Capacity
 2026-11,Customer Support,16,3147.15,85.15,173.15,147.43,21.35,22,6,6,0,133.41,2358.93,788.23,32852.92,91.46,Under-Capacity
