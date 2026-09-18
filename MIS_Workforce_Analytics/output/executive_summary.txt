@@ -20,7 +20,8 @@ Approved Leave Days: 453
 Leave Utilization Rate: 47.19%
 
 Leave utilization assumes an annual entitlement of
-12 days per employee.
+18 days per employee, prorated to 12 days for the
+January-August analysis period.
 
 3. PRODUCTIVITY AND CAPACITY
 
