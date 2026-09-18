@@ -237,7 +237,7 @@ The maximum monthly hiring requirement was 63 FTE-equivalent employees.
 
 The total forecast workload shortfall was 10,278.37 units.
 
-The hiring forecast represents additional FTE-equivalent capacity required if historical workload and productivity trends continue.
+The forecast represents additional FTE-equivalent capacity required if historical workload and productivity trends continue.
 
 Management should first improve productivity, redistribute workload and then use phased hiring based on operational priorities.
 
@@ -318,27 +318,27 @@ The Power BI report contains six interactive dashboard pages:
 
 ### Executive Overview
 
-![Executive Overview](./Power%20BI/Dashboards%20screenshot/Executive%20Overview.png)
+![Executive Overview](./Power%20Bi/Dashboards%20screenshot/Executive%20Overview.png)
 
 ### Productivity Analysis
 
-![Productivity Analysis](./Power%20BI/Dashboards%20screenshot/Productivity%20Analysis.png)
+![Productivity Analysis](./Power%20Bi/Dashboards%20screenshot/Productivity%20Analysis.png)
 
 ### Attendance & Overtime
 
-![Attendance and Overtime](./Power%20BI/Dashboards%20screenshot/Attendance%20%26%20Overtime.png)
+![Attendance and Overtime](./Power%20Bi/Dashboards%20screenshot/Attendance%20%26%20Overtime.png)
 
 ### Attrition Analysis
 
-![Attrition Analysis](./Power%20BI/Dashboards%20screenshot/Attrition%20Analysis.png)
+![Attrition Analysis](./Power%20Bi/Dashboards%20screenshot/Attrition%20Analysis.png)
 
 ### Capacity & Hiring Forecast
 
-![Capacity and Hiring Forecast](./Power%20BI/Dashboards%20screenshot/Capacity%20%26%20Hiring%20Forecast.png)
+![Capacity and Hiring Forecast](./Power%20Bi/Dashboards%20screenshot/Capacity%20%26%20Hiring%20Forecast.png)
 
 ### Management Exceptions
 
-![Management Exceptions](./Power%20BI/Dashboards%20screenshot/Management%20Exceptions.png)
+![Management Exceptions](./Power%20Bi/Dashboards%20screenshot/Management%20Exceptions.png)
 
 ## Project Structure
 
@@ -362,9 +362,8 @@ MIS_Workforce_Analytics/
 │   ├── workforce_forecast.py
 │   └── final_management_report.py
 │
-├── Power BI/
+├── Power Bi/
 │   ├── Dashboards.pbix
-│   ├── Dashboard pages.txt
 │   └── Dashboards screenshot/
 │       ├── Attendance & Overtime.png
 │       ├── Attrition Analysis.png
