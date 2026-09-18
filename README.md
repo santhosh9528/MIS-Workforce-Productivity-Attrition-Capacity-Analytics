@@ -318,27 +318,27 @@ The Power BI report contains six interactive dashboard pages:
 
 ### Executive Overview
 
-![Executive Overview](./MIS_Workforce_Analytics/Power%20Bi/Dashboards%20screenshot/Executive%20Overview.png)
+![Executive Overview](./MIS_Workforce_Analytics/Power%20Bi/Dashboards%20screenshoot/Executive%20Overview.png)
 
 ### Productivity Analysis
 
-![Productivity Analysis](./MIS_Workforce_Analytics/Power%20Bi/Dashboards%20screenshot/Productivity%20Analysis.png)
+![Productivity Analysis](./MIS_Workforce_Analytics/Power%20Bi/Dashboards%20screenshoot/Productivity%20Analysis.png)
 
 ### Attendance & Overtime
 
-![Attendance and Overtime](./MIS_Workforce_Analytics/Power%20Bi/Dashboards%20screenshot/Attendance%20%26%20Overtime.png)
+![Attendance and Overtime](./MIS_Workforce_Analytics/Power%20Bi/Dashboards%20screenshoot/Attendance%20%26%20Overtime.png)
 
 ### Attrition Analysis
 
-![Attrition Analysis](./MIS_Workforce_Analytics/Power%20Bi/Dashboards%20screenshot/Attrition%20Analysis.png)
+![Attrition Analysis](./MIS_Workforce_Analytics/Power%20Bi/Dashboards%20screenshoot/Attrition%20Analysis.png)
 
 ### Capacity & Hiring Forecast
 
-![Capacity and Hiring Forecast](./MIS_Workforce_Analytics/Power%20Bi/Dashboards%20screenshot/Capacity%20%26%20Hiring%20Forecast.png)
+![Capacity and Hiring Forecast](./MIS_Workforce_Analytics/Power%20Bi/Dashboards%20screenshoot/Capacity%20%26%20Hiring%20Forecast.png)
 
 ### Management Exceptions
 
-![Management Exceptions](./MIS_Workforce_Analytics/Power%20Bi/Dashboards%20screenshot/Management%20Exceptions.png)
+![Management Exceptions](./MIS_Workforce_Analytics/Power%20Bi/Dashboards%20screenshoot/Management%20Exceptions.png)
 
 ## Project Structure
 
